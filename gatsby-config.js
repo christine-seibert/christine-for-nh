@@ -6,31 +6,58 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Christine for New Hampshire`,
+    siteTitleAlt: `Christine Seibert | Candidate for NH State Representative (District 8) | Manchester, Ward 1`,
+    siteHeadline: `Help Elect Christine Seibert for your Manchester, Ward 1, New Hampshire State Representative on September 8th, 2020`,
+    siteUrl: `https://christine4nh.com`,
+    siteDescription: `Paid for by Christine Seibert for State Representative`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `info@christine4nh.com`
   },
   plugins: [
+    {
+      resolve: "gatsby-plugin-react-svg",
+      options: {
+        rule: {
+          include: /assets/
+        }
+      }
+    },
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
       options: {
         navigation: [
+          // {
+          //   title: `Issues`,
+          //   slug: `/issues`,
+          // },
+          // {
+          //   title: `About`,
+          //   slug: `/about`,
+          // },
           {
-            title: `Blog`,
-            slug: `/blog`,
+            title: 'Contact',
+            slug: '/contact'
           },
-          {
-            title: `About`,
-            slug: `/about`,
-          },
+          // {
+          //   title: `Blog`,
+          //   slug: `/blog`,
+          // }
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            name: `Donate`,
+            url: `https://secure.actblue.com/donate/christine-4-nh`
           },
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            name: `Facebook`,
+            url: `https://fb.com/christine4NHStateRep`,
+          },
+          {
+            name: `Twitter`,
+            url: `https://twitter.com/christine4nh`,
           },
         ],
       },
@@ -45,12 +72,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Christine Seibert for NH State Representative District 8`,
+        short_name: `christine-for-nh-state-representative-d8`,
+        description: `Help Elect Christine Seibert for your Manchester, Ward 1, New Hampshire State Representative (District 8)`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#6B46C1`,
+        theme_color: `#fff`,
         display: `standalone`,
         icons: [
           {
