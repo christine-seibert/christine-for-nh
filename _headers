@@ -1,0 +1,148 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.f628065b851287e306e5.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-c2fe8482057191dca484.js
+  Cache-Control: public, max-age=31536000, immutable
+/56c4dd72-0ced1c6c5f990d9284a5.js
+  Cache-Control: public, max-age=31536000, immutable
+/1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-dc260a2a23bacef54435.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-65c1851e07c32f0f46fc.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-11d68ee2918274f2506b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-3c6e876547375d2f3de0.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-5d9a151fe6e963f989c5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-42bc135f6e24bab77d5c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-gatsby-plugin-offline-app-shell-js-f3d0a21fe8149f33caf4.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-tsx-775a11390250ead4153b.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-cb86834080e5d45d2b7f.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-1a1efb3f5c798a012f4a.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-e28685adb7e7c3fd1e1b.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </56c4dd72-0ced1c6c5f990d9284a5.js>; rel=preload; as=script
+  Link: </1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-dc260a2a23bacef54435.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-65c1851e07c32f0f46fc.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-11d68ee2918274f2506b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/vote-september-8-2020
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-3c6e876547375d2f3de0.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/vote-september-8-2020/page-data.json>; rel=preload; as=fetch; crossorigin
+/issues
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-5d9a151fe6e963f989c5.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/issues/page-data.json>; rel=preload; as=fetch; crossorigin
+/contact
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-5d9a151fe6e963f989c5.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/contact/page-data.json>; rel=preload; as=fetch; crossorigin
+/about
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-5d9a151fe6e963f989c5.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/primary
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-42bc135f6e24bab77d5c.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/primary/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/vote
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-42bc135f6e24bab77d5c.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/vote/page-data.json>; rel=preload; as=fetch; crossorigin
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-f3d0a21fe8149f33caf4.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/404/
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js>; rel=preload; as=script
+  Link: </component---src-pages-404-tsx-775a11390250ead4153b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/404.html
+  Link: </webpack-runtime-cb86834080e5d45d2b7f.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-e28685adb7e7c3fd1e1b.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </1687ebba5b70d7a5da2f0187ba5f83bf2d45a9e2-66059110bb9426f800c9.js>; rel=preload; as=script
+  Link: </component---src-pages-404-tsx-775a11390250ead4153b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
