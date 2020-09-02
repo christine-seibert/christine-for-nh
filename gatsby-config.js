@@ -6,7 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitle: `Christine for New Hampshire`,
+    siteTitle: `Christine for NH`,
     siteTitleAlt: `Christine Seibert | Candidate for NH State Representative (District 8) | Manchester, Ward 1`,
     siteHeadline: `Help Elect Christine Seibert for your Manchester, Ward 1, New Hampshire State Representative on September 8th, 2020`,
     siteUrl: `https://christine4nh.com`,
@@ -23,6 +23,21 @@ module.exports = {
           include: /assets/
         }
       }
+    },
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
+    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/pages`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/images`,
+      },
     },
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
