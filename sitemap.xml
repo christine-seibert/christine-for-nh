@@ -4,9 +4,9 @@
 <url> <loc>https://christine4nh.com/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://christine4nh.com/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://christine4nh.com/vote-september-8-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://christine4nh.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://christine4nh.com/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://christine4nh.com/issues</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://christine4nh.com/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://christine4nh.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://christine4nh.com/tags/primary</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://christine4nh.com/tags/vote</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
