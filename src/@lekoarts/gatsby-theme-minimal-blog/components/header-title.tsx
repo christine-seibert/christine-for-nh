@@ -27,7 +27,7 @@ const HeaderTitle = ({data}) => {
           {siteTitle}
         </h1>
       </div>
-      <em sx={{ my: 0, color: `#625195`, fontWeight: `medium`, fontSize: [0, 1] }}>"Ideas Thought Out, Not Bought Out"</em>
+      <em sx={{ my: 0, color: `#CC4398`, fontWeight: `medium`, fontSize: [0, 1] }}>"Ideas Thought Out, Not Bought Out"</em>
     </Link>
   )
 }
