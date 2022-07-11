@@ -17,4 +17,5 @@ jobs:
       with:
         node-version: '14.x'
         cache: 'npm'
-    - run: npm run deploy
+    - run: yarn
+    - run: yarn deploy
