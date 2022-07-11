@@ -17,5 +17,6 @@ jobs:
       with:
         node-version: '14.x'
         cache: 'npm'
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
     - run: yarn
     - run: yarn deploy
