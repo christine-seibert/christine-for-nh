@@ -17,9 +17,12 @@ jobs:
       with:
         node-version: '14.x'
         cache: 'npm'
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
     - run: yarn
     - run: |
         git config user.name "GitHub Actions Bot"
         git config user.email "<>"
+  
     - run: yarn deploy
+      env:
+        GITHUB_TOKEN: ${{ github.token }}
+        CI: true
