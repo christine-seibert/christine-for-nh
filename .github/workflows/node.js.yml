@@ -19,4 +19,7 @@ jobs:
         cache: 'npm'
         repo-token: ${{ secrets.GITHUB_TOKEN }}
     - run: yarn
+    - run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "<>"
     - run: yarn deploy
