@@ -19,10 +19,6 @@ jobs:
         cache: 'npm'
     - run: yarn
     - run: git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
-    - run: git config --global user.name "${GITHUB_ACTOR}"
+    - run: git config --global user.name ${GITHUB_ACTOR}
     - run: git config --global user.email "<>"
-  
     - run: yarn deploy
-      env:
-        GITHUB_TOKEN: ${{ github.token }}
-        CI: true
