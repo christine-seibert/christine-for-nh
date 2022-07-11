@@ -18,9 +18,9 @@ jobs:
         node-version: '14.x'
         cache: 'npm'
     - run: yarn
-    - run: |
-        git config user.name "GitHub Actions Bot"
-        git config user.email "<>"
+    - run: git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+    - run: git config --global user.name "${GITHUB_ACTOR}"
+    - run: git config --global user.email "<>"
   
     - run: yarn deploy
       env:
