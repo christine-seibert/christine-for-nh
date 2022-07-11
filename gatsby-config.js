@@ -7,8 +7,8 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 module.exports = {
   siteMetadata: {
     siteTitle: `Christine for NH`,
-    siteTitleAlt: `Christine Seibert | Candidate for NH State Representative (District 8) | Manchester, Ward 1`,
-    siteHeadline: `Help Elect Christine Seibert for your Manchester, Ward 1, New Hampshire State Representative on September 8th, 2020`,
+    siteTitleAlt: `Christine Seibert | Candidate for NH State Representative (Hillsborough District 21) | Manchester, Ward 1`,
+    siteHeadline: `Help Elect Christine Seibert for your Manchester, Ward 1, New Hampshire State Representative on September 13th, 2022`,
     siteUrl: `https://christine4nh.com`,
     siteDescription: `Paid for by Christine Seibert for State Representative`,
     siteLanguage: `en`,
@@ -87,9 +87,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Christine Seibert for NH State Representative District 8`,
-        short_name: `christine-for-nh-state-representative-d8`,
-        description: `Help Elect Christine Seibert for your Manchester, Ward 1, New Hampshire State Representative (District 8)`,
+        name: `Christine Seibert for NH State Representative District 21`,
+        short_name: `christine-for-nh-state-representative-d21`,
+        description: `Help Elect Christine Seibert for your Manchester, Ward 1, New Hampshire State Representative (Hillsborough District 21)`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
