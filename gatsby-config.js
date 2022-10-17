@@ -8,7 +8,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: `Christine for NH`,
     siteTitleAlt: `Christine Seibert | Candidate for NH State Representative (Hillsborough District 21) | Manchester, Ward 1`,
-    siteHeadline: `Help Elect Christine Seibert for your Manchester, Ward 1, New Hampshire State Representative on September 13th, 2022`,
+    siteHeadline: `Help Elect Christine Seibert for your Manchester, Ward 1, New Hampshire State Representative on November 8th, 2022`,
     siteUrl: `https://christine4nh.com`,
     siteDescription: `Paid for by Christine Seibert for State Representative`,
     siteLanguage: `en`,
