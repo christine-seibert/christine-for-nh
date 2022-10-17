@@ -4,7 +4,7 @@ disallow: /blog
 disallow: /about
 disallow: /issues
 disallow: /tags
-disallow: /vote-september-8-2020
+disallow: /vote-november-8-2022
 
 # Baiduspider
 User-agent: Baiduspider
