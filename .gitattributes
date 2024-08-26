@@ -1,0 +1,51 @@
+# Handle line endings automatically for files detected as text
+# and leave all files detected as binary untouched.
+* text=auto
+
+#
+# The above will handle all files NOT found below
+#
+# Note: To get all file extensions used, execute the following powershell
+# `Get-Childitem -Exclude node_modules,dist,.idea | Get-Childitem -File -Recurse | Select-Object PSParentPath,Name,Extension -Unique`
+#
+
+# These programing language files should be normalized (Convert crlf => lf)
+*.css               text eol=lf
+*.js                text eol=lf
+*.ps1               text eol=lf
+
+# These markup language files should be normalized to lf (Convert crlf => lf)
+*.html              text eol=lf
+*.json              text eol=lf
+*.xml               text eol=lf
+*.yaml              text eol=lf
+*.yml               text eol=lf
+
+# These documentation files should be normalized to lf (Convert crlf => lf)
+*.md                text eol=lf
+*.txt               text eol=lf
+
+# These configuration files should be normalized to lf (Convert crlf => lf)
+*.editorconfig      text eol=lf
+*.gitattributes     text eol=lf
+*.gitignore         text eol=lf
+
+# These script files should be normalized to lf (Convert crlf => lf)
+Dockerfile      text eol=lf
+Makefile        text eol=lf
+*.sh            text eol=lf
+*.bash          text eol=lf
+
+# These windows script files should be normalized to crlf (Convert lf => crlf)
+*.bat           text eol=crlf
+*.cmd           text eol=crlf
+
+# These files are binary and should be left untouched
+# (binary is a macro for -text -diff)
+*.gif           binary
+*.ico           binary
+*.jar           binary
+*.jpg           binary
+*.jpeg          binary
+*.png           binary
+*.svg           binary
