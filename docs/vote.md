@@ -36,8 +36,13 @@ get the outcomes you are expecting according to the
 
     **Vote for ALL to 6; Six will be elected**
 
+    ##### District 21 (Manchester Ward 1)
+
     - [x] [Christine Seibert](https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9077)*
     - [x] [Matthew B. Wilhelm](https://www.facebook.com/WilhelmForNH/)
+
+    ##### District 40 (Manchester Wards 1, 3, 10, 11, 12)
+
     - [x] [Trinidad Tellez](https://www.facebook.com/DoctorTrini4NH/)
     - [x] [Suraj Budathoki](https://www.surajbudathoki.org/)
     - [x] [Erin Kerwin](https://www.facebook.com/people/Erin-Kerwin-for-State-Representative/61560611957169/)
