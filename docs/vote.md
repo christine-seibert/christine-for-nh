@@ -34,7 +34,7 @@ get the outcomes you are expecting according to the
 
 ===+ "State Representatives"
 
-    **Vote for ALL to 6; Six will be elected**
+    **Vote for ALL 6; Six will be elected**
 
     <h5>District 21 (Manchester Ward 1)</h5>
 
