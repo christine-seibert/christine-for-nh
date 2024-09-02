@@ -1,14 +1,14 @@
 # Christine for NH
 
 _Christine for NH_ repository contains the contents and blog for Christine Seibert's Campaign for
-the New Hamphsire State House of Representatives.
+the New Hampshire State House of Representatives.
 
 On every change to the _main_ branch, the __[markdown](https://www.markdownguide.org/)__ under
 `/docs` directory is built and deployed as a Cloudflare page to:
 
 - __<https://christine-for-nh.com/>__
 >
-> Locally changes are applied immediately as files are saved to __<http://localhost:8000/>__
+> Local changes are applied immediately on save to __<http://localhost:8000/>__
 
 ## Getting started
 
@@ -21,20 +21,20 @@ If you are on __Windows__, please do the following to install `just`:
 
 - Open a Powershell terminal and execute the following:
 
-  ```powershell
-  winget install --id Casey.Just --exact
-  ```
+ ```powershell
+  winget install --id Casey.Just --exact
+ ```
 
 If you are on __Ubuntu Linux__, please do the following to install `just`:
 
 - Open a bash terminal and execute the following:
 
-  ```bash
-  wget -qO - 'https://proget.makedeb.org/debian-feeds/prebuilt-mpr.pub' | gpg --dearmor | sudo tee /usr/share/keyrings/prebuilt-mpr-archive-keyring.gpg 1> /dev/null
-  echo "deb [arch=all,$(dpkg --print-architecture) signed-by=/usr/share/keyrings/prebuilt-mpr-archive-keyring.gpg] https://proget.makedeb.org prebuilt-mpr $(lsb_release -cs)" | sudo tee /etc/apt/sources.list.d/prebuilt-mpr.list
-  sudo apt update
-  sudo apt install just
-  ```
+ ```bash
+  wget -qO - 'https://proget.makedeb.org/debian-feeds/prebuilt-mpr.pub' | gpg --dearmor | sudo tee /usr/share/keyrings/prebuilt-mpr-archive-keyring.gpg 1> /dev/null
+  echo "deb [arch=all,$(dpkg --print-architecture) signed-by=/usr/share/keyrings/prebuilt-mpr-archive-keyring.gpg] https://proget.makedeb.org prebuilt-mpr $(lsb_release -cs)" | sudo tee /etc/apt/sources.list.d/prebuilt-mpr.list
+  sudo apt update
+  sudo apt install just
+ ```
 
 > For other OS's, follow [Just Installation Commands](https://github.com/casey/just?tab=readme-ov-file#packages)
 
@@ -48,7 +48,7 @@ just build
 
 ## Deploy
 
-To __deploy__ the Docker Container locally execute the following command:
+To __deploy__ the Docker Container locally, execute the following command:
 
 1. Execute the following command:
 
@@ -72,13 +72,13 @@ or
 just build serve
 ```
 
-> Just command defaults to building and serving the project attached to the terminal (`CTRL` + `C` will automatically stop the container).
+> The `just` command defaults to building and serving the project attached to the terminal (`CTRL` + `C` will automatically stop the container).
 
 Open __<http://localhost:8000/>__ once you see `Serving on http://0.0.0.0:8000/` in the docker logs.
 
 ## Deploy Detached
 
-To __deploy__ the Docker Container detached from the terminal locally execute the following command:
+To __deploy__ the Docker Container detached from the terminal locally, execute the following command:
 
 1. Execute the following command:
 
@@ -120,7 +120,7 @@ just clean
 
 ## Contributing
 
-Following the __[Contributing Guide](./CONTRIBUTING.md)__ for how to contribute to this project.
+Follow the __[Contributing Guide](./CONTRIBUTING.md)__ for instructions on contributing to this project.
 
 ## Credits
 

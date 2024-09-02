@@ -7,7 +7,11 @@ hide:
 
 # :material-file-sign: Endorsements & Candidate Distinctions
 
-When fighting for the top issues in Concord, we often rely on help from like minded organizations offer Endorsements while others use Candidate Distinctions. I am proud to have worked with and gained the following Endorsements and Candidate Distinctions, with more to come soon.
+When fighting for the top issues in Concord, we often rely on help from like-minded organizations
+that offer Endorsements while others use Candidate Distinctions.
+
+I am proud to have worked with and gained the following Endorsements and Candidate Distinctions,
+with more to come soon.
 
 ## :fontawesome-solid-check-to-slot: Endorsements
 

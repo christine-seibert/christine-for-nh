@@ -4,8 +4,8 @@ We'd love to accept your patches and contributions to this project.
 
 ## Development Environment
 
-If you are contributing Christine for NH content (rather than code) and want to be able to view it
-in your browser, the easiest way to do so is to run it locally.
+If you are contributing Christine for NH content (rather than code) and want to be able to view it,
+the easiest way to do so in your browser is to run it locally.
 
 We use [Cloudflare Pages][1] to make this documentation available, and [Material MkDocs][2] to build
 the site.
@@ -40,8 +40,8 @@ following commands:
 
 ### Hot reloading
 
-The development server recognizes when files change (including static files) and local changes will
-be automatically reflected in your browser upon reload.
+The development server recognizes when files change (including static files), and local changes will
+be automatically reflected in your browser upon reloading.
 
 ## Commits
 
@@ -56,14 +56,15 @@ for more information on using pull requests.
 
 ### Formatting
 
-We use [editorconfig][7] and [prettier][8] to format Markdown, JavaScript, and (most) HTML, to
+We use [editorconfig][7] and [prettier][8] to format Markdown, JavaScript, and (most) HTML to
 ensure a consistent style throughout our source. You can add prettier as a plugin in most
 development environments.
 
 ### Linting
 
-We use [markdownlint][9] to lint Markdown, to ensure proper Markdown is used throughout our source.
-You can add markdownlint as a plugin in most development environments.
+We use [markdownlint][9] to lint Markdown to ensure proper Markdown is used throughout our source.
+
+> You can add markdownlint as a plugin in most development environments.
 
 ### More Details
 

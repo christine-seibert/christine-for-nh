@@ -7,7 +7,8 @@ hide:
 
 # :material-handshake: Get Involved
 
-Get involved, bring *sanity* and *common sense* back to government, and help us win back control of the **State House**.
+Get involved, bring *sanity* and *common sense* back to government, and help us win back control of
+the **State House**.
 
 - [Manchester Democratic City Committee](https://www.manchesterdemocrats.org/)
 - [New Hampshire House Democrats](https://nhhousedems.org/)

@@ -15,7 +15,7 @@ hide:
 
 [603-892-2685](tel:1-603-892-2685)
 
-> Texting is better than calling, but Christine will make every effort to return calls in a timely manner.
+> Texting is better than calling, but Christine will always return calls promptly.
 
 ## :material-facebook: Facebook
 
