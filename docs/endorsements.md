@@ -17,7 +17,7 @@ with more to come soon.
 
 - [NEA-NH](https://neanh.org/)
 - [NH AFL-CIO](https://nhaflcio.org/2024-new-hampshire-afl-cio-endorsed-candidates/)
-- [SEA/SCIU 1984](https://seiu1984.org/nh-politics-political-endorsements/)
+- [SEA/SEIU Local 1984](https://seiu1984.org/nh-politics-political-endorsements/)
 - [Teamsters Local 663](https://teamsters633.com/political/endorsements/)
 - [NHYD](https://www.nhyd.org/)
 - [603 Forward](https://www.603forward.org/)
