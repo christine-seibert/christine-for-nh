@@ -23,4 +23,5 @@ hide:
 
 ## :material-twitter: X
 
-<https://x.com/christine4nh>
+- Campaign: <https://x.com/christine4nh>
+- Personal: <https://x.com/christineseib18>
