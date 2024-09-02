@@ -1,26 +1,26 @@
 [data-md-color-scheme="christine4nh"] {
-    --md-primary-fg-color: #3098CB;
-    --md-primary-fg-color--light: #155369; // light-blue
-    --md-primary-fg-color--dark: #002b3d; // blue
+    --md-primary-fg-color: #3098CB; // Curious Blue
+    --md-primary-fg-color--light: #F6F4F5; // Wild Sand
+    --md-primary-fg-color--dark: #787C7C; // Sirocco
     --md-primary-bg-color: #FFFFFF;
-    --md-primary-bg-color--light: #002b3d; // dark-blue
-    --md-accent-fg-color: #1B98E0; // highlight-blue
-    --md-accent-fg-color--transparent: #EE6C4D;
+    --md-primary-bg-color--light: #283452; // Rhino
+    --md-accent-fg-color: #78B4CA; // Half Baked
+    --md-accent-fg-color--transparent: #787C7C; // Sirocco
     --md-accent-bg-color: #FFFFFF;
-    --md-accent-bg-color--light: #002b3d; // blue
+    --md-accent-bg-color--light: #283452; // Rhino
 }
 
 /* Based on https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/palette/_scheme.scss */
 [data-md-color-scheme="christine4nh-dark"] {
-    --md-primary-fg-color: #CB3098;
-    --md-primary-fg-color--light: #2fab97; // light-green
-    --md-primary-fg-color--dark: #0f7e69; // green
+    --md-primary-fg-color: #CB3098; // Cerise
+    --md-primary-fg-color--light: #EDEFE6; // Green White
+    --md-primary-fg-color--dark: #787B98; // Waterloo
     --md-primary-bg-color: #FFFFFF;
-    --md-primary-bg-color--light: #03523f; // dark-green
+    --md-primary-bg-color--light: #2A3A4B; // Pickled Bluewood
     --md-accent-fg-color: #FFFFFF;
-    --md-accent-fg-color--transparent: #0f7e69; // green
+    --md-accent-fg-color--transparent: #787B98; // Waterloo
     --md-accent-bg-color: #FFFFFF;
-    --md-accent-bg-color--light: #03523f; // dark-green
+    --md-accent-bg-color--light: #2A3A4B; // Pickled Bluewood
 
     /* Indicate that the site is rendered with a dark color scheme */
     color-scheme: dark;

@@ -36,12 +36,12 @@ get the outcomes you are expecting according to the
 
     **Vote for ALL to 6; Six will be elected**
 
-    ##### District 21 (Manchester Ward 1)
+    <h5>District 21 (Manchester Ward 1)</h5>
 
     - [x] [Christine Seibert](https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9077)*
     - [x] [Matthew B. Wilhelm](https://www.facebook.com/WilhelmForNH/)
 
-    ##### District 40 (Manchester Wards 1, 3, 10, 11, 12)
+    <h5>District 40 (Manchester Wards 1, 3, 10, 11, 12)</h5>
 
     - [x] [Trinidad Tellez](https://www.facebook.com/DoctorTrini4NH/)
     - [x] [Suraj Budathoki](https://www.surajbudathoki.org/)
