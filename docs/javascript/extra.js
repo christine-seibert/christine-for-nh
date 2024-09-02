@@ -30,6 +30,8 @@ function readingTime() {
   }
 }
 
-document.addEventListener("DOMContentLoaded", function (event) {
-  readingTime();
-});
+if(window.location.pathname !== "/") {
+  document.addEventListener("DOMContentLoaded", function (event) {
+    readingTime();
+  });
+}

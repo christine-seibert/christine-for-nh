@@ -124,11 +124,10 @@ Following the __[Contributing Guide](./CONTRIBUTING.md)__ for how to contribute 
 
 ## Credits
 
-Check out our _awesome__ __[Authors](./AUTHORS.md)__ who have contributed to this project and deserve a pat on the back.
-
 - [Markdown](https://www.markdownguide.org/)
 - [MarkdownLint](https://github.com/DavidAnson/markdownlint)
 - [MkDocs](https://www.mkdocs.org/)
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 - [Docker](https://www.docker.com/)
-- [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)
+- [GitHub](https://github.com/)
+- [Cloudflare Pages](https://developers.cloudflare.com/pages)

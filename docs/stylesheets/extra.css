@@ -1,25 +1,25 @@
-[data-md-color-scheme="andovercos"] {
-    --md-primary-fg-color: #044054;
+[data-md-color-scheme="christine4nh"] {
+    --md-primary-fg-color: #3098CB;
     --md-primary-fg-color--light: #155369;
     --md-primary-fg-color--dark: #002b3d;
-    --md-primary-bg-color: #E6EBF0;
+    --md-primary-bg-color: #FFFFFF;
     --md-primary-bg-color--light: #002b3d;
     --md-accent-fg-color: #1B98E0;
     --md-accent-fg-color--transparent: #EE6C4D;
-    --md-accent-bg-color: #E6EBF0;
+    --md-accent-bg-color: #FFFFFF;
     --md-accent-bg-color--light: #002b3d;
 }
 
-/* Based on https://github.com/squidfunk/mkdocs-material/blob/master/src/assets/stylesheets/palette/_scheme.scss#L31 */
-[data-md-color-scheme="andovercos-dark"] {
-    --md-primary-fg-color: #159c86;
+/* Based on https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/palette/_scheme.scss */
+[data-md-color-scheme="christine4nh-dark"] {
+    --md-primary-fg-color: #CB3098;
     --md-primary-fg-color--light: #2fab97;
     --md-primary-fg-color--dark: #0f7e69;
-    --md-primary-bg-color: #E6EBF0;
+    --md-primary-bg-color: #FFFFFF;
     --md-primary-bg-color--light: #03523f;
-    --md-accent-fg-color: #159c86;
+    --md-accent-fg-color: #FFFFFF;
     --md-accent-fg-color--transparent: #0f7e69;
-    --md-accent-bg-color: #E6EBF0;
+    --md-accent-bg-color: #FFFFFF;
     --md-accent-bg-color--light: #03523f;
 
     /* Indicate that the site is rendered with a dark color scheme */
@@ -98,10 +98,10 @@
     0 0 #{px2rem(1px)} hsla(0, 0%, 0%, 0.35);
 }
 
-[data-md-color-scheme="andovercos"] img[src$="#gh-dark-mode-only"],[data-md-color-scheme="andovercos"] img[src$="#only-dark"] {
+[data-md-color-scheme="christine4nh"] img[src$="#gh-dark-mode-only"],[data-md-color-scheme="christine4nh"] img[src$="#only-dark"] {
   display: none
 }
 
-[data-md-color-scheme="andovercos-dark"] img[src$="#gh-light-mode-only"],[data-md-color-scheme="andovercos-dark"] img[src$="#only-light"] {
+[data-md-color-scheme="christine4nh-dark"] img[src$="#gh-light-mode-only"],[data-md-color-scheme="christine4nh-dark"] img[src$="#only-light"] {
   display: none
 }

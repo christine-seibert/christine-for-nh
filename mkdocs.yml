@@ -3,32 +3,37 @@ site_description: Re-Elect Christine Seibert for NH State Representative (Hillsb
 copyright: Copyright &copy; 2018 - 2024 Christine for State Representative
 
 nav:
-  - Home: 'index.md'
-  - Want to Help?: 'contributing.md'
+  - Home: index.md
+  - Endorsements: endorsements.md
+  - Issues: issues.md
+  - Vote: vote.md
+  - 'Get Involved': involvement.md
+  - Contact: contact.md
+  - Donate: 'https://secure.actblue.com/donate/christine-4-nh'
 
 theme:
   name: material
   custom_dir: ./docs/overrides
-  logo: assets/images/christine_seibert_profile_icon_96.png
+  logo: assets/images/christine_seibert_profile_icon_48.png
   favicon: assets/images/favicon.ico
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
-      scheme: andovercos
+      scheme: christine4nh
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: andovercos
+      scheme: christine4nh
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: andovercos-dark
+      scheme: christine4nh-dark
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -108,3 +113,5 @@ plugins:
       lang: en
   - git-revision-date-localized:
       enable_creation_date: true
+  - privacy
+  - open-in-new-tab
