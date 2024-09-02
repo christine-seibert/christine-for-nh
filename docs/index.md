@@ -26,7 +26,7 @@ Having sponsored or co-sponsored around thirty (30) bills, five (5) of which wer
 or Adopted into law, and one other that was sadly Vetoed by the Governor, I am very proud of the
 work I did for you in my first term in office.
 
-??? tip "Sponsered Bills Record from [Bill Track 50](https://www.billtrack50.com/legislatordetail/27326)"
+??? tip "Sponsored Bills Record from [Bill Track 50](https://www.billtrack50.com/legislatordetail/27326)"
 
     | Bill | Bill Name | Summary | Progress |
     | ---- |---------- | ------- | -------- |
