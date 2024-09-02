@@ -10,6 +10,8 @@ Although it is a Presidential Election, its vital to vote Democrats down ballot 
 
 ## :material-ballot: Sample Ballot
 
+Vote for All Six(6) New Hampshire State Representatives!
+
 ![Sample Ballot](./assets/images/sample.png)
 
 > Download a [Sample Ballot](https://www.sos.nh.gov/elections/sample-ballots/) from the New Hampshire Secretary of States (SoS) Website or use the [Blue Voter Guide](https://bluevoterguide.org/) by providing your address.
