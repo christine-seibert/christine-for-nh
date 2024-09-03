@@ -17,5 +17,4 @@ Disallow:
 User-agent: *
 Disallow: /
 Disallow: /contact/
-Disallow: /assets/
 Sitemap: https://christine4nh.com/sitemap.xml
