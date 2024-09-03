@@ -50,6 +50,14 @@ get the outcomes you are expecting according to the
 
     > `*` Represents a link to the Official General Court Website
 
+=== "State Senate"
+
+    <h5>District 16</h5>
+
+    **WRITE-IN**
+
+    - [x] [Michael York](https://manchester.inklink.news/michael-york-retiring-state-librarian-announces-run-for-nh-senate-district-16/)
+
 === "Executive Councilor"
 
     - [x] [Jim O'Connell](https://oconnellfornh.com/)
