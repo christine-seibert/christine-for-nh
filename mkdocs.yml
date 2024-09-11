@@ -114,7 +114,5 @@ markdown_extensions:
 plugins:
   - search:
       lang: en
-  - git-revision-date-localized:
-      enable_creation_date: true
   - privacy
   - open-in-new-tab

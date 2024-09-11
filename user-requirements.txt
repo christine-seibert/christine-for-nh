@@ -1,5 +1,4 @@
 mkdocs
 mkdocs-material
-mkdocs-git-revision-date-localized-plugin
 mdx_truly_sane_lists
 mkdocs-open-in-new-tab
