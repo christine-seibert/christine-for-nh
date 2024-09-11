@@ -34,7 +34,7 @@ get the outcomes you are expecting according to the
 
 ===+ "State Representatives"
 
-    **Vote for ALL 6; Six will be elected**
+    **Vote for ALL 6. Six will be elected**
 
     <h5>District 21 (Manchester Ward 1)</h5>
 
@@ -52,10 +52,6 @@ get the outcomes you are expecting according to the
 
 === "State Senate"
 
-    <h5>District 16</h5>
-
-    **WRITE-IN**
-
     - [x] [Michael York](https://manchester.inklink.news/michael-york-retiring-state-librarian-announces-run-for-nh-senate-district-16/)
 
 === "Executive Councilor"
@@ -64,22 +60,11 @@ get the outcomes you are expecting according to the
 
 === "Representative in Congress"
 
-    **Vote for not more than 1**
-
-    - [ ] [Chris Pappas](https://www.chrispappas.org/)
-    - [ ] Kevin Rondeau
-
-    > Primary on September 10, 2024.
+    - [x] [Chris Pappas](https://www.chrispappas.org/)
 
 === "Governor"
 
-    **Vote for not more than 1**
-
-    - [ ] [Joyce Craig](https://joycecraig.org/)
-    - [ ] [Cinde Warmington](https://www.cindewarmington.com/)
-    - [ ] [Jon Kiper](https://www.votekiper.org/)
-
-    > Primary on September 10, 2024.
+    - [x] [Joyce Craig](https://joycecraig.org/)
 
 === "President"
 
