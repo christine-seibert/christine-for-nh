@@ -99,6 +99,7 @@ I encourage you to vote in both the Primary & General Elections so we can elect 
 Please see the following link for absentee voting instructions and registration:
 
 - [Secretary of State - Absentee Ballots](https://www.sos.nh.gov/elections/absentee-ballots)
+- [Secretary of State - Absentee Ballot Application](https://www.sos.nh.gov/sites/g/files/ehbemt561/files/documents/2024-07/2024-absentee-ballot-application-state-election-remediation-update.pdf)
 - [How to Register to Vote](https://www.manchesternh.gov/Departments/City-Clerk/Voter-Registration-and-Elections/How-to-Register)
 - [Secretary of State - Register to Vote](https://www.sos.nh.gov/elections/register-vote)
 - [Are you Registered?](https://www.manchesterdemocrats.org/voterreg)
