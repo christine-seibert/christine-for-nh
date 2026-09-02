@@ -8,29 +8,27 @@ Although it is a Presidential Election, it is vital to vote Democrats down the b
 get the outcomes you are expecting according to the
 [US Vote Foundation](https://www.usvotefoundation.org/downballot).
 
-> Let's get out there and vote **Democrats** from the *bottom* of the ticket *up*!
+<!-- > Let's get out there and vote **Democrats** from the *bottom* of the ticket *up*!
 
 === "County Commissioner"
 
-    - [x] Jeffrey Monheit
+    - [] [Pierre A. Cetoute]()
 
 === "Register of Probate"
 
-    - [x] Tony Labranche
+    - [x] [June Trisciani](https://www.manchesternh.gov/Government/Mayor-and-Aldermen/Aldermen/At-Large-Ald-Trisciani)
 
 === "Register of Deeds"
 
-    - [x] [Mary Ann Crowell](https://www.nashuatelegraph.com/news/local-news/2022/10/22/deeds-going-digital-arpa-funding-makes-possible-the-digitizing-preservation-of-hundreds/)
+    - [] [Mary Ann Crowell]()
 
 === "County Treasurer"
 
     - [x] [Beverly Cotton](https://www.opendemocracyaction.org/who_we_are)
 
-    > Read [Weare Democrats | Meet Our 2024 Candidates](https://wearenhdemocrats.org/meet-our-2024-candidates/) for more details on Bev.
-
 === "County Attorney"
 
-    - [x] [Kimberly A. Kossick](https://www.kkossickhcao2024.com/)
+    - [x] [Travis Bennett]() -->
 
 ===+ "State Representatives"
 
@@ -39,20 +37,21 @@ get the outcomes you are expecting according to the
     <h5>District 21 (Manchester Ward 1)</h5>
 
     - [x] [Christine Seibert](https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9077)*
-    - [x] [Matthew B. Wilhelm](https://www.facebook.com/WilhelmForNH/)
+    - [x] [Jeff Goley](https://www.citizenscount.org/candidate/jeffrey-jeff-goley)
 
     <h5>District 40 (Manchester Wards 1, 3, 10, 11, 12)</h5>
 
-    - [x] [Trinidad Tellez](https://www.facebook.com/DoctorTrini4NH/)
-    - [x] [Suraj Budathoki](https://www.surajbudathoki.org/)
-    - [x] [Erin Kerwin](https://www.facebook.com/people/Erin-Kerwin-for-State-Representative/61560611957169/)
+    - [x] [Trinidad Tellez](https://gc.nh.gov/house/members/member.aspx?pid=10820)*
+    - [x] [Robert Richard-Snipes](https://rob4nh.com/)
+    - [x] [Erin Kerwin](https://gc.nh.gov/house/members/member.aspx?pid=11218)*
     - [x] [Mark S. MacKenzie](https://www.gencourt.state.nh.us/house/members/member.aspx?pid=8516)*
 
     > `*` Represents a link to the Official General Court Website
 
-=== "State Senate"
+<!-- === "State Senator"
 
-    - [x] [Michael York](https://manchester.inklink.news/michael-york-retiring-state-librarian-announces-run-for-nh-senate-district-16/)
+    - [] [Dian McCarthy](https://www.mccarthy4nh.com/)
+    - [] [Dave DePuy](https://ballotpedia.org/David_DePuy)
 
 === "Executive Councilor"
 
@@ -60,15 +59,27 @@ get the outcomes you are expecting according to the
 
 === "Representative in Congress"
 
-    - [x] [Chris Pappas](https://www.chrispappas.org/)
+    - [] [Sarah E. Chadzynski]()
+    - [] [Bill Conlin]()
+    - [] [Matthew Emerson]()
+    - [] [Heath Howard]()
+    - [] [Stefany Shaheen]()
+    - [] [Sarah Bella Spinosa]()
+    - [] [Maura C. Sullivan]()
+    - [] [Christian Urrutia]()
+    - [] [Carleigh Beriont]()
+
+=== "US Senator"
+
+    - [] [John Vail](https://www.sendnomoney.org/)
+    - [] [David Jarvis](https://davejarvisforsenate.com/)
+    - [] [Karishma Manzur](https://www.karishmaforsenate.com/)
+    - [] [Chris Pappas](https://www.chrispappas.org/)
+    - [] [Maxwell L. Saal](https://maxfornh.com/)
 
 === "Governor"
 
-    - [x] [Joyce Craig](https://joycecraig.org/)
-
-=== "President"
-
-    - [x] [Kamala Harris](https://kamalaharris.com/)
+    - [x] [Cinde Warmington](https://www.cindewarmington.com/) -->
 
 ## :material-ballot: Sample Ballot
 
@@ -83,8 +94,8 @@ Vote for All **Six (6)** *New Hampshire State Representatives*!
 
 I encourage you to vote in both the Primary & General Elections so we can elect the Democrats:
 
-- **Primary Election**: September 10, 2024
-- **General Election**: November 5, 2024
+- **Primary Election**: September 8, 2026
+- **General Election**: November 3, 2026
 
 ## :fontawesome-solid-school: Where to Vote
 

@@ -127,7 +127,7 @@ Follow the __[Contributing Guide](./CONTRIBUTING.md)__ for instructions on contr
 - [Markdown](https://www.markdownguide.org/)
 - [MarkdownLint](https://github.com/DavidAnson/markdownlint)
 - [MkDocs](https://www.mkdocs.org/)
-- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+- [Zensical](https://zensical.org/)
 - [Docker](https://www.docker.com/)
 - [GitHub](https://github.com/)
 - [Cloudflare Pages](https://developers.cloudflare.com/pages)

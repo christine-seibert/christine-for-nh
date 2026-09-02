@@ -1,13 +1,13 @@
 site_name: Christine for NH
 site_url: https://christine4nh.com
 site_description: Re-Elect Christine Seibert for NH State Representative (Hillsborough District 21) | Manchester, Ward 1
-copyright: Copyright &copy; 2018 - 2024 Christine for State Representative
+copyright: Copyright &copy; 2018 - 2026 Christine for State Representative
 
 nav:
   - Home: index.md
+  - Vote: vote.md
   - Endorsements: endorsements.md
   - Issues: issues.md
-  - Vote: vote.md
   - 'Get Involved': involvement.md
   - Contact: contact.md
   - Donate: 'https://secure.actblue.com/donate/christine-4-nh'

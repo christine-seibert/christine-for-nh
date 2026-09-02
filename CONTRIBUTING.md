@@ -7,7 +7,7 @@ We'd love to accept your patches and contributions to this project.
 If you are contributing Christine for NH content (rather than code) and want to be able to view it,
 the easiest way to do so in your browser is to run it locally.
 
-We use [Cloudflare Pages][1] to make this documentation available, and [Material MkDocs][2] to build
+We use [Cloudflare Pages][1] to make this documentation available, and [Zensical][2] to build
 the site.
 
 If you have [Docker][3] and [just][4] installed, clone this repository and run the `just` command
@@ -72,7 +72,7 @@ Read the `CONTRIBUTING.md` and `README.md` files at the root of this project for
 any questions you may have.
 
 [1]: https://developers.cloudflare.com/pages/
-[2]: https://squidfunk.github.io/mkdocs-material/
+[2]: https://zensical.org/
 [3]: https://docker.com/
 [4]: https://just.systems/man/en/chapter_4.html
 [5]: https://www.conventionalcommits.org/en/v1.0.0/
