@@ -4,9 +4,9 @@ _Christine for NH_ repository contains the contents and blog for Christine Seibe
 the New Hampshire State House of Representatives.
 
 On every change to the _main_ branch, the __[markdown](https://www.markdownguide.org/)__ under
-`/docs` directory is built and deployed as a Cloudflare page to:
+`/docs` directory is built and deployed to:
 
-- __<https://christine-for-nh.com/>__
+- __<https://christine4nh.com/>__
 >
 > Local changes are applied immediately on save to __<http://localhost:8000/>__
 
