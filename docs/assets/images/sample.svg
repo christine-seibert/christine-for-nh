@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="83.62426mm"
+   height="103.0205mm"
+   viewBox="0 0 83.62426 103.0205"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.8901105"
-     inkscape:cx="289.95431"
-     inkscape:cy="515.37822"
+     inkscape:cx="107.78135"
+     inkscape:cy="200.85737"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -37,7 +37,7 @@
        x="231.99805"
        y="305.69766"
        width="195.14825"
-       height="39.271855"
+       height="39.271854"
        id="rect4" /><linearGradient
        id="swatch3"
        inkscape:swatch="solid"><stop
@@ -48,9 +48,9 @@
        xlink:href="#swatch3"
        id="linearGradient3"
        x1="56.361"
-       y1="133.20402"
+       y1="133.20403"
        x2="118.54391"
-       y2="133.20402"
+       y2="133.20403"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.99193479,0,0,1.0001035,0.67657101,-12.029834)" /><linearGradient
        inkscape:collect="always"
@@ -59,12 +59,13 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.99193479,0,0,1.0001035,0.67690494,-44.35715)"
        x1="56.361"
-       y1="133.20402"
+       y1="133.20403"
        x2="118.54391"
-       y2="133.20402" /></defs><g
+       y2="133.20403" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"><g
+     id="layer1"
+     transform="translate(-48.248827,-83.277246)"><g
        id="g8"
        inkscape:label="district21"
        transform="matrix(1.3445016,0,0,1.324884,-27.468812,-21.355598)"><rect
